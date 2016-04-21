@@ -1,7 +1,7 @@
 # NodeGoat
 test1
 etst4
-aoeuoaeu
+aoeu
 aoeua
 aosentuhsaontehu
 aosetuhsaonteu
